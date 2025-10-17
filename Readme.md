@@ -8,7 +8,7 @@
 This project implements a complete pipeline for detecting smiles in real-time using deep learning and computer vision. The system leverages the lightweight YuNet for face detection and a fine-tuned VGG19 model for highly accurate smile classification.
 
 ### Live Demo
-![Smile Detection Demo]
+![Smile Detection Demo](https://github.com/armankhl/smile-detection-project/smile_detection_demo.gif?raw=true)
 
 ---
 
