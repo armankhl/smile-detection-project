@@ -1,0 +1,31 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and OS specific files
+.DS_Store
+.idea/
+.vscode/
+
+# Large data files - These should be downloaded separately
+/Dataset/
+/cropped_smile/
+/cropped_non_smile/
+
+# Trained models - These are large and should be linked from a release or cloud storage
+*.h5
+*.onnx
+*.keras
+
+# Output folders
+/output/
